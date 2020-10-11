@@ -26,9 +26,9 @@ Library
                      Crypto.OpenSSL.BN
                      Crypto.OpenSSL.AES
                      Crypto.OpenSSL.Random
+                     Crypto.OpenSSL.AES.Foreign
   Other-modules:     Crypto.OpenSSL.ECC.Foreign
                    , Crypto.OpenSSL.BN.Foreign
-                   , Crypto.OpenSSL.AES.Foreign
                    , Crypto.OpenSSL.Misc
                    , Crypto.OpenSSL.ASN1
   Build-depends:     base
